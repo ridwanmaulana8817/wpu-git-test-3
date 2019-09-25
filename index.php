@@ -9,5 +9,8 @@
 <body>
 <h1>Title</h1>
     <p>remote dari pc ke github</p>
+    <ul>
+        <li>satu</li>
+    </ul>
 </body>
 </html>
